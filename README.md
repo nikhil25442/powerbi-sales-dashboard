@@ -38,6 +38,12 @@ The dashboard helps in tracking sales, orders, product performance, and overall 
 
 ---
 
+## 📸 Dashboard Preview
+![<img width="1308" height="691" alt="image" src="https://github.com/user-attachments/assets/f82b83af-1f06-4909-8e1b-b8c4e9f8ef2f" />
+]
+
+---
+
 ## 📌 Project Status
 ✅ Completed  
 
